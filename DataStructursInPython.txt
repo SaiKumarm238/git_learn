@@ -1,0 +1,20 @@
+1.How is a bubble sort algorithm implemented?
+2.How is a merge sort algorithm implemented?
+3.Python Program for Binary Search (Recursive and Iterative)
+4.Python Program for Linear Search
+5.Python Program for Insertion Sort
+6.Python Program for Recursive Insertion Sort
+7.Python Program for QuickSort
+8.Python Program for Iterative Quick Sort
+9.Python Program for Recursive Selection Sort
+10.Python Program for Selection Sort
+11.Python Program for Iterative Merge Sort
+12.Python Program for Heap Sort
+13.Python Program for Counting Sort
+14.Python Program for ShellSort
+15.Python Program for Topological Sorting
+16.Python Program for Odd-Even Sort / Brick Sort
+17.Python Program for BogoSort or Permutation Sort
+18.Python Program for Cycle Sort
+19Python Program for Stooge Sort
+20.Python Program for Cocktail Sort
